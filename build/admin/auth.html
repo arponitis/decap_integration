@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Decap CMS Authentication</title>
+  <script>
+    window.addEventListener('load', function() {
+      window.opener.postMessage(
+        'authorization:github:success:{"token":"' + window.location.hash.slice(1) + '"}',
+        window.location.origin
+      );
+      window.close();
+    });
+  </script>
+</head>
+<body>
+  <p>Authentication successful! You can close this window.</p>
+</body>
+</html> 

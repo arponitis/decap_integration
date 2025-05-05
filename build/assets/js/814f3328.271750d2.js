@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdecap_docusaurus=self.webpackChunkdecap_docusaurus||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to Our Blog","permalink":"/decap_integration/blog/2024/05/05/welcome","unlisted":false,"date":"2024-05-05T00:00:00.000Z"}]}')}}]);

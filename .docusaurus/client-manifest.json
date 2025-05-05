@@ -1,0 +1,323 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "42": [
+      42
+    ],
+    "953": [
+      76,
+      249,
+      643,
+      869,
+      953
+    ],
+    "17896441": [
+      76,
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "098f36de": [
+      326
+    ],
+    "0b5f3680": [
+      551
+    ],
+    "0e384e19": [
+      76,
+      976
+    ],
+    "189f638f": [
+      658
+    ],
+    "36994c47": [
+      858
+    ],
+    "4d3b7cbf": [
+      76,
+      662
+    ],
+    "5e95c892": [
+      647
+    ],
+    "814f3328": [
+      472
+    ],
+    "9e4087bc": [
+      76,
+      711
+    ],
+    "a6aa9e1f": [
+      76,
+      869,
+      953,
+      643
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "acecf23e": [
+      903
+    ],
+    "c3fe39da": [
+      76,
+      403
+    ],
+    "ccc49370": [
+      76,
+      869,
+      953,
+      249
+    ],
+    "styles": [
+      48,
+      76,
+      249,
+      354,
+      401,
+      643,
+      792,
+      953,
+      869
+    ],
+    "common": [
+      249,
+      401,
+      403,
+      643,
+      662,
+      711,
+      869,
+      953,
+      976,
+      76
+    ]
+  },
+  "assets": {
+    "42": {
+      "js": [
+        {
+          "file": "assets/js/42.5f0e8aca.js",
+          "hash": "ad8ccfb32bca2cde",
+          "publicPath": "/decap_integration/assets/js/42.5f0e8aca.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.2365f5a2.js",
+          "hash": "ee21683d56868f52",
+          "publicPath": "/decap_integration/assets/js/a94703ab.2365f5a2.js"
+        }
+      ]
+    },
+    "76": {
+      "js": [
+        {
+          "file": "assets/js/common.6f8853d9.js",
+          "hash": "ad7f04f7fabaa2f6",
+          "publicPath": "/decap_integration/assets/js/common.6f8853d9.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.c4b40999.js",
+          "hash": "e2c21e10b2cac114",
+          "publicPath": "/decap_integration/assets/js/a7bd4aaa.c4b40999.js"
+        }
+      ]
+    },
+    "249": {
+      "js": [
+        {
+          "file": "assets/js/ccc49370.25c400f4.js",
+          "hash": "d5ec6ec43a1518e5",
+          "publicPath": "/decap_integration/assets/js/ccc49370.25c400f4.js"
+        }
+      ]
+    },
+    "326": {
+      "js": [
+        {
+          "file": "assets/js/098f36de.e9c270e5.js",
+          "hash": "155d06a8ec33fe4c",
+          "publicPath": "/decap_integration/assets/js/098f36de.e9c270e5.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.e1a1e47a.js",
+          "hash": "98ce9f7c77245d06",
+          "publicPath": "/decap_integration/assets/js/runtime~main.e1a1e47a.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.93a9f874.js",
+          "hash": "e6981d37bb0894b8",
+          "publicPath": "/decap_integration/assets/js/17896441.93a9f874.js"
+        }
+      ]
+    },
+    "403": {
+      "js": [
+        {
+          "file": "assets/js/c3fe39da.0564a15d.js",
+          "hash": "ad5fed978beffdb0",
+          "publicPath": "/decap_integration/assets/js/c3fe39da.0564a15d.js"
+        }
+      ]
+    },
+    "472": {
+      "js": [
+        {
+          "file": "assets/js/814f3328.271750d2.js",
+          "hash": "4733ba7215b09cda",
+          "publicPath": "/decap_integration/assets/js/814f3328.271750d2.js"
+        }
+      ]
+    },
+    "551": {
+      "js": [
+        {
+          "file": "assets/js/0b5f3680.8e70be3d.js",
+          "hash": "636dd9e05c2af516",
+          "publicPath": "/decap_integration/assets/js/0b5f3680.8e70be3d.js"
+        }
+      ]
+    },
+    "643": {
+      "js": [
+        {
+          "file": "assets/js/a6aa9e1f.ca715364.js",
+          "hash": "41bda283691fb5e3",
+          "publicPath": "/decap_integration/assets/js/a6aa9e1f.ca715364.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.4e802336.js",
+          "hash": "ad41929d1214b76e",
+          "publicPath": "/decap_integration/assets/js/5e95c892.4e802336.js"
+        }
+      ]
+    },
+    "658": {
+      "js": [
+        {
+          "file": "assets/js/189f638f.6ba312de.js",
+          "hash": "adc34a0ae6c1773f",
+          "publicPath": "/decap_integration/assets/js/189f638f.6ba312de.js"
+        }
+      ]
+    },
+    "662": {
+      "js": [
+        {
+          "file": "assets/js/4d3b7cbf.612204dd.js",
+          "hash": "9f12197e2f4225fc",
+          "publicPath": "/decap_integration/assets/js/4d3b7cbf.612204dd.js"
+        }
+      ]
+    },
+    "711": {
+      "js": [
+        {
+          "file": "assets/js/9e4087bc.64f0d095.js",
+          "hash": "8c5e5fae5ca22ecc",
+          "publicPath": "/decap_integration/assets/js/9e4087bc.64f0d095.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.011a4e9a.js",
+          "hash": "b290a3e18b906247",
+          "publicPath": "/decap_integration/assets/js/aba21aa0.011a4e9a.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.65390c51.js",
+          "hash": "0dc41da4fbf9950b",
+          "publicPath": "/decap_integration/assets/js/main.65390c51.js"
+        }
+      ]
+    },
+    "858": {
+      "js": [
+        {
+          "file": "assets/js/36994c47.f58f1d36.js",
+          "hash": "d2d3f83022d2cb2a",
+          "publicPath": "/decap_integration/assets/js/36994c47.f58f1d36.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.fbc509c9.css",
+          "hash": "3d635831c8c9a41c",
+          "publicPath": "/decap_integration/assets/css/styles.fbc509c9.css"
+        }
+      ]
+    },
+    "903": {
+      "js": [
+        {
+          "file": "assets/js/acecf23e.368206cb.js",
+          "hash": "9f45b1a7ff0cacd1",
+          "publicPath": "/decap_integration/assets/js/acecf23e.368206cb.js"
+        }
+      ]
+    },
+    "953": {
+      "js": [
+        {
+          "file": "assets/js/953.1c991b83.js",
+          "hash": "a91e521208b8cbc7",
+          "publicPath": "/decap_integration/assets/js/953.1c991b83.js"
+        }
+      ]
+    },
+    "976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.50896e41.js",
+          "hash": "aad3b9e3e9ba9834",
+          "publicPath": "/decap_integration/assets/js/0e384e19.50896e41.js"
+        }
+      ]
+    }
+  }
+}

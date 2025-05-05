@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdecap_docusaurus=self.webpackChunkdecap_docusaurus||[]).push([[903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/decap_integration/blog","blogTitle":"Blog","authorsListPath":"/decap_integration/blog/authors"}')}}]);

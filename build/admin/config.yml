@@ -1,0 +1,32 @@
+backend:
+  name: github
+  repo: arponitis/decap_integration
+  branch: main
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+  site_domain: arponitis.github.io/decap_integration
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: docs
+    label: Documentation
+    folder: docs
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Sidebar Position", name: "sidebar_position", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: blog
+    label: Blog
+    folder: blog
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Author Title", name: "author_title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Body", name: "body", widget: "markdown"} 
