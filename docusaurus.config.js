@@ -1,13 +1,13 @@
 const config = {
   title: 'My Documentation Site',
   tagline: 'Documentation with Decap CMS',
-  url: 'https://your-domain.com',
-  baseUrl: '/',
+  url: 'https://arponitis.github.io',
+  baseUrl: '/decap_integration/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'your-github-username',
-  projectName: 'decap-docusaurus',
+  organizationName: 'arponitis',
+  projectName: 'decap_integration',
 
   presets: [
     [
@@ -15,11 +15,11 @@ const config = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/your-github-username/decap-docusaurus/edit/main/',
+          editUrl: 'https://github.com/arponitis/decap_integration/edit/main/',
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/your-github-username/decap-docusaurus/edit/main/',
+          editUrl: 'https://github.com/arponitis/decap_integration/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -44,7 +44,7 @@ const config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/your-github-username/decap-docusaurus',
+          href: 'https://github.com/arponitis/decap_integration',
           label: 'GitHub',
           position: 'right',
         },
@@ -67,7 +67,7 @@ const config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/your-github-username/decap-docusaurus',
+              href: 'https://github.com/arponitis/decap_integration',
             },
           ],
         },
