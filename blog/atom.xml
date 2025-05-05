@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://arponitis.github.io/decap_integration/blog</id>
+    <title>My Documentation Site Blog</title>
+    <updated>2024-05-05T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://arponitis.github.io/decap_integration/blog"/>
+    <subtitle>My Documentation Site Blog</subtitle>
+    <icon>https://arponitis.github.io/decap_integration/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Our Blog]]></title>
+        <id>https://arponitis.github.io/decap_integration/blog/2024/05/05/welcome</id>
+        <link href="https://arponitis.github.io/decap_integration/blog/2024/05/05/welcome"/>
+        <updated>2024-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to our new blog section]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to our blog! This is our first post. We'll be sharing updates, tutorials, and other interesting content here.</p>]]></content>
+        <author>
+            <name>Admin</name>
+        </author>
+    </entry>
+</feed>
