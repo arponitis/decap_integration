@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>My Documentation Site Blog</title>
-        <link>https://arponitis.github.io/decap_integration/blog</link>
+        <link>https://arponitis.github.io/decap_integration/blog/</link>
         <description>My Documentation Site Blog</description>
         <lastBuildDate>Sun, 05 May 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome to Our Blog]]></title>
-            <link>https://arponitis.github.io/decap_integration/blog/2024/05/05/welcome</link>
-            <guid>https://arponitis.github.io/decap_integration/blog/2024/05/05/welcome</guid>
+            <link>https://arponitis.github.io/decap_integration/blog/2024/05/05/welcome/</link>
+            <guid>https://arponitis.github.io/decap_integration/blog/2024/05/05/welcome/</guid>
             <pubDate>Sun, 05 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to our new blog section]]></description>
             <content:encoded><![CDATA[<p>Welcome to our blog! This is our first post. We'll be sharing updates, tutorials, and other interesting content here.</p>]]></content:encoded>

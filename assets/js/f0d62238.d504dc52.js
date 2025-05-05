@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdecap_docusaurus=self.webpackChunkdecap_docusaurus||[]).push([[406],{9085:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/decap_integration/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
