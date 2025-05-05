@@ -1,0 +1,19 @@
+{
+  "id": "intro",
+  "title": "Introduction",
+  "description": "Welcome to our documentation site! This site is built with Docusaurus and uses Decap CMS for content management.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/decap-docusaurus/edit/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar"
+}
