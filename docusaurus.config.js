@@ -8,7 +8,8 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'arponitis',
   projectName: 'decap_integration',
-  trailingSlash: false,
+  trailingSlash: true,
+  deploymentBranch: 'gh-pages',
 
   presets: [
     [
