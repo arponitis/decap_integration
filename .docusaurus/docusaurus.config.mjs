@@ -6,24 +6,24 @@
 export default {
   "title": "My Documentation Site",
   "tagline": "Documentation with Decap CMS",
-  "url": "https://your-domain.com",
-  "baseUrl": "/",
-  "onBrokenLinks": "throw",
+  "url": "https://arponitis.github.io",
+  "baseUrl": "/decap_integration/",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "your-github-username",
-  "projectName": "decap-docusaurus",
+  "organizationName": "arponitis",
+  "projectName": "decap_integration",
   "presets": [
     [
       "@docusaurus/preset-classic",
       {
         "docs": {
           "sidebarPath": "/Users/shahriarbulbul/Desktop/Codespace/decap_docusaurus/sidebars.js",
-          "editUrl": "https://github.com/your-github-username/decap-docusaurus/edit/main/"
+          "editUrl": "https://github.com/arponitis/decap_integration/edit/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/your-github-username/decap-docusaurus/edit/main/"
+          "editUrl": "https://github.com/arponitis/decap_integration/edit/main/"
         },
         "theme": {
           "customCss": "/Users/shahriarbulbul/Desktop/Codespace/decap_docusaurus/src/css/custom.css"
@@ -51,7 +51,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/your-github-username/decap-docusaurus",
+          "href": "https://github.com/arponitis/decap_integration",
           "label": "GitHub",
           "position": "right"
         }
@@ -75,7 +75,7 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/your-github-username/decap-docusaurus"
+              "href": "https://github.com/arponitis/decap_integration"
             }
           ]
         }

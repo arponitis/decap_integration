@@ -1,18 +1,18 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/decap_integration/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/decap_integration/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/decap_integration/docs/intro",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -20,7 +20,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/decap_integration/docs/intro",
                 "label": "intro"
               }
             }
