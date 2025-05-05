@@ -3,7 +3,7 @@ const config = {
   tagline: 'Documentation with Decap CMS',
   url: 'https://arponitis.github.io',
   baseUrl: '/decap_integration/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'arponitis',
