@@ -42,6 +42,11 @@ export default [
     ]
   },
   {
+    path: '/decap_integration/',
+    component: ComponentCreator('/decap_integration/', '515'),
+    exact: true
+  },
+  {
     path: '*',
     component: ComponentCreator('*'),
   },

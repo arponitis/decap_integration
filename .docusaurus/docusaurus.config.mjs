@@ -8,11 +8,12 @@ export default {
   "tagline": "Documentation with Decap CMS",
   "url": "https://arponitis.github.io",
   "baseUrl": "/decap_integration/",
-  "onBrokenLinks": "warn",
+  "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "arponitis",
   "projectName": "decap_integration",
+  "trailingSlash": false,
   "presets": [
     [
       "@docusaurus/preset-classic",

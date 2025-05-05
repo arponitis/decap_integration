@@ -46,5 +46,12 @@
   "/decap_integration/docs/intro-87b": {
     "__comp": "17896441",
     "content": "0e384e19"
+  },
+  "/decap_integration/-515": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
   }
 }
